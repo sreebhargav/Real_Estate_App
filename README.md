@@ -2,6 +2,8 @@
 
 This project is a **Real Estate Listing Web Application** built with a **Django** backend and a **React** frontend. The application is deployed on **Amazon Web Services (AWS)** using **Elastic Beanstalk**, **RDS** (PostgreSQL), and **S3** for storage. The infrastructure is designed to be **highly available**, **scalable**, and **secure**.
 
+**Live Demo:** [Real Estate Listing App](http://reactappfe-env.eba-t5m7gmfr.us-east-1.elasticbeanstalk.com/)
+
 ---
 
 ## 📄 Table of Contents
@@ -149,4 +151,6 @@ python manage.py runserver
 
 ## 🌐 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 
